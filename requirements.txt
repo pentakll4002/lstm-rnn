@@ -1,0 +1,11 @@
+numpy
+seaborn
+matplotlib
+pytouch
+tensorflow==2.15.0
+pandas
+scikit-learn
+streamlit
+tensorboard
+scikeras
+nltk

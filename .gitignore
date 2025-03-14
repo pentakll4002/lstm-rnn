@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+.env/
+venv.bak/
+
+# Pyenv
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.db-journal
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+.hypothesis/
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+test-reports/
+
+# Linter and formatter cache
+.mypy_cache/
+.pytest_cache/
+.pytype/
+
+# Cloud and deployment files
+__pypackages__/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# System-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker
+.dockerignore
+
+# Editor files
+*.swp
+*~
